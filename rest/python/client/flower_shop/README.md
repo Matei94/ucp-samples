@@ -18,6 +18,8 @@
 
 # Simple Happy Path Client Script for UCP SDK.
 
+Matei's first test commit
+
 ## Scope
 
 This script demonstrates a complete "happy path" user journey: 0. **Discovery**:
